@@ -66,4 +66,3 @@ households	(numeric - int ) : Count of the total number of households in the blo
 median_income	(numeric - float ) : Median of the total household income of all the houses in the block
 ocean_proximity	(numeric - categorical ) : Type of the landscape of the block [ Unique Values : 'NEAR BAY', '<1H OCEAN', 'INLAND', 'NEAR OCEAN', 'ISLAND'  ]
 median_house_value	(numeric - int ) : Median of the household prices of all the houses in the block
-Dataset Size : 20640 rows x 10 columns
